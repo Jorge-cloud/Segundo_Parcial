@@ -28,7 +28,7 @@
                 <input type="hidden" name="id" value="${lista.id}">
                 <div class="mb-3">
                     <label for="" class="form-label">Id_Usuario</label>
-                    <input type="text" class="form-control" name="id_usuario" value="${lista.descripcion}" placeholder="Escriba la descripcion del rol">
+                    <input type="text" class="form-control" name="descripcion" value="${lista.descripcion}" placeholder="Escriba la descripcion del rol">
                     
                 </div>
                
